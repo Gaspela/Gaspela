@@ -10,6 +10,7 @@ Reach Me                 | [![Twitter Badge](https://img.shields.io/badge/-Gaspe
 
 ## Blog Posts
 <!-- blog start -->
+* [COVID-19 radiography detection](https://samirmillanorozco.medium.com/covid-19-radiography-detection-4ff589c4ee33) - May 6, 2021·10 min read
 * [Transfer Learning and CIFAR 10 dataset](https://medium.com/@samirmillanorozco/transfer-learning-and-cifar-10-dataset-cefc81eff75b) - Oct 2, 2020·5 min read
 * [Static libraries in C](https://medium.com/@samirmillanorozco/static-libraries-in-c-a15331005cd7) - Mar 16, 2020·3 min read
 * [IoT ( Internet of things)](https://medium.com/@samirmillanorozco/iot-internet-of-things-87aad699a2a6) - Mar 8, 2020·5 min read
